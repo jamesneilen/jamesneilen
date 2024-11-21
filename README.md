@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jamesneilen
-- 👀 I’m interested in Application development
+- 👀 I’m interested in Mobile Application development
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on projects related to application development
+- 💞️ I’m looking to collaborate on projects related to mobile application development
 - 📫 How to reach me jamesneilen17@gmail.com
 
 <!---
